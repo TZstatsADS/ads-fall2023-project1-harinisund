@@ -2,17 +2,19 @@
 ## Fall 2023
 ## Project 1: What made you happy today?
 
-![image](figs/title.jpeg)
+![](figs/title.jpg)
 
 ### [Project Description](doc/Proj1_desc.md)
 This is the first and only *individual* (as opposed to *team*) this semester. 
 
 Term: Fall 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
++ Project title: Cats, Dogs and (Happy) People
 + This project is conducted by Harini Sundararajan
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: In this analysis, I am going to attempt to answer a series of questions pertaining to dogs and cats and their impact on human happiness. I'll consider them collectively as well as comparatively in this respect. I will be trying to answer a few questions: 
+  + What makes animal lovers tick - _apart_ from animals?
+  + Settling the debate - cats vs dogs (What sort of contributions do they make to happiness? How do general sentiments differ?)
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 

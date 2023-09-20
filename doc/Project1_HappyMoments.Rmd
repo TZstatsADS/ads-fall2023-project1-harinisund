@@ -9,8 +9,9 @@ knitr::opts_chunk$set(echo=FALSE)
 ```
 
 ```{r load libraries, include=FALSE}
+#install.packages(c("tidyverse","kableExtra","wordcloud","tidytext","tm","reshape2","knitr","bookdown","scales"))
 library(tidyverse)
-require(scales)
+library(scales)
 options(digits=2)
 library(kableExtra)
 library(wordcloud)
